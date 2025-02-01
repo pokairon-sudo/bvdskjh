@@ -730,12 +730,12 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import os
 import csv
 
-ANNOUNCEMENT_CHANNEL = "@fakeannouncmentsadgame7766"
-COMMANDS_CHANNEL = "@fakecommandssadgame7766"
-BOT_TOKEN = "7585945637:AAHADs0n0PfRNd58vin29wdSTp6ybIH9sJQ"  # Replace with your actual bot token
+ANNOUNCEMENT_CHANNEL = "@FallOfWorldNews"
+COMMANDS_CHANNEL = "@FallOfWorld"
+BOT_TOKEN = "7731223537:AAG0CECDuuzPX0L1MtgtZak5LxxFNLJy7RA"  # Replace with your actual bot token
 ADMIN_ID = 642957912
 ALLOWED_IDS_FILE = "allowed_ids.csv"
-PASSWORD = 1
+PASSWORD = 123
 
 pending_bayanieh = {}
 bot = telebot.TeleBot(BOT_TOKEN)
