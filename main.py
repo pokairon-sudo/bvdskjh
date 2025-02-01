@@ -733,9 +733,9 @@ import csv
 ANNOUNCEMENT_CHANNEL = "@FallOfWorldNews"
 COMMANDS_CHANNEL = "@FallOfWorld"
 BOT_TOKEN = "7731223537:AAG0CECDuuzPX0L1MtgtZak5LxxFNLJy7RA"  # Replace with your actual bot token
-ADMIN_ID = 642957912
+ADMIN_ID = 1552249508
 ALLOWED_IDS_FILE = "allowed_ids.csv"
-PASSWORD = 123
+PASSWORD = RodeosGG2311
 
 pending_bayanieh = {}
 bot = telebot.TeleBot(BOT_TOKEN)
